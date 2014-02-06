@@ -3,11 +3,10 @@
 
 <!-- Comit para rebase -->
 =======
-<<<<<<< HEAD
 <!-- Primer cambio en mi rama  -->
 
 <!-- Comit para rebase -->
-=======
+
 <!-- Primer cambio en mi rama, primer cambio del fork -->
->>>>>>> re primer cambio con conflicto del Fork
->>>>>>> re primer cambio con conflicto del Fork
+<!-- Segundo commit del Fork -->
+>>>>>>> re segundo cambio con conflicto del Fork
